@@ -1,5 +1,3 @@
-# jaeger-rastreando-dois-projetos-spring-boot-com-zuul-e-eureka
-
 # Rastreabilidade entre dois projetos com Jaeger, Zuul e Eureka
 
 Passo a passo:
