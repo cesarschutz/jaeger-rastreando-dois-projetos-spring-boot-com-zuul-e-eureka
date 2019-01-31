@@ -1,4 +1,4 @@
-package com.edenred.ticketlog.zuul;
+package com.example.zuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,10 +8,10 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 @SpringBootApplication
 @EnableZuulProxy
 @EnableDiscoveryClient
-public class ZullServerApplication {
+public class RoteirizadorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZullServerApplication.class, args);
+		SpringApplication.run(RoteirizadorApplication.class, args);
 	}
 
 }
