@@ -18,7 +18,7 @@ localhost:8761
 jaeger-all-in-one --collector.zipkin.http-port=9411
 ``
 
-- Executar serviço no roteirizador-ms:<br />
+- Executar serviço no roteirizador-ms acessando pelo zuul:<br />
 Sem erro:<br />
 ``
 http://localhost:8762/roteirizadorms/roteirizador/helloError
