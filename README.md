@@ -33,4 +33,4 @@ http://localhost:8762/roteirizadorms/roteirizador/hello
 http://localhost:16686
 ``
 
-![alt text](https://github.com/cesarschutz/jaeger-rastreando-dois-projetos-spring-boot/blob/master/Capturar.PNG)
+![alt text](https://github.com/cesarschutz/jaeger-rastreando-dois-projetos-spring-boot-com-zuul-e-eureka/blob/master/Capturar.PNG)
