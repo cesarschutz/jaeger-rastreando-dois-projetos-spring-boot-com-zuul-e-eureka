@@ -21,11 +21,11 @@ jaeger-all-in-one --collector.zipkin.http-port=9411
 - Executar serviço no roteirizador-ms acessando pelo zuul:<br />
 Sem erro:<br />
 ``
-http://localhost:8762/roteirizadorms/roteirizador/helloError
+http://localhost:8762/roteirizadorms/roteirizador/hello
 ``
 <br /><br />Com erro proposital para analisar o erro no jaeger:<br />
 ``
-http://localhost:8762/roteirizadorms/roteirizador/hello
+http://localhost:8762/roteirizadorms/roteirizador/helloError
 ``
 
 - Verficar rastreabilidade:<br />
